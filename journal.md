@@ -1,27 +1,12 @@
 # Robot Journal
 
-## 2025-10-02
+## https://sites.google.com/nyu.edu/torico/performing-robot/journal
 
-![1](images/1.jpg)
-![2](images/2.jpg)
+Dear Professor Michael,
 
-# Robot Journal
+I apologize for posting my journal on Google Sites without prior approval. It has been my usual practice, as I have kept all my IM projects there. If this does not meet the course requirements, I will move everything to GitHub.
 
-## 2025-10-07
+Thank you for your understanding.
 
-![3](images/3.jpg)
-![4](images/4.jpg)
-
-## To do list for this week:
-
- design arms (both)
- 
- make arms (both)
-
- base!!!!!(do it in the lab)
-
- how to attach motor?(add wooden board maybe)
-
- finish the head(cut paper, dig holes, leave space for LED)
-
- how to attach head? will we have a neck?
+Best regards,
+Torico

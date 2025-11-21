@@ -635,7 +635,6 @@ matrix.show();
     RightArm.write((rightCenter + armStep) - armStep * t);
     delay(20);
   }
-  delay(200);
 
     break;
 
@@ -653,13 +652,25 @@ matrix.drawPixel(6, 3, matrix.Color(255,255,255));
 matrix.drawPixel(7, 3, matrix.Color(255,255,255));
 matrix.drawPixel(8, 3, matrix.Color(255,255,255));
 
-matrix.drawPixel(3, 3, matrix.Color(255,255,255));
+matrix.drawPixel(3, 4, matrix.Color(255,255,255));
 matrix.drawPixel(4, 4, matrix.Color(255,255,255));
 matrix.drawPixel(5, 4, matrix.Color(255,255,255));
 matrix.drawPixel(6, 4, matrix.Color(255,255,255));
 matrix.drawPixel(7, 4, matrix.Color(255,255,255));
 matrix.drawPixel(8, 4, matrix.Color(255,255,255));
 
+  // right 
+  matrix.drawPixel(10, 3, matrix.Color(255,255,255));
+  matrix.drawPixel(11, 3, matrix.Color(255,255,255));
+  matrix.drawPixel(12, 3, matrix.Color(255,255,255));
+  matrix.drawPixel(13, 3, matrix.Color(255,255,255));
+  matrix.drawPixel(14, 3, matrix.Color(255,255,255));
+  
+  matrix.drawPixel(10, 4, matrix.Color(255,255,255));
+  matrix.drawPixel(11, 4, matrix.Color(255,255,255));
+  matrix.drawPixel(12, 4, matrix.Color(255,255,255));
+  matrix.drawPixel(13, 4, matrix.Color(255,255,255));
+  matrix.drawPixel(14, 4, matrix.Color(255,255,255));
 
 matrix.show();
 
